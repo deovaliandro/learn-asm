@@ -1,6 +1,6 @@
 ## Program untuk menghitung modulus
 
-Untuk menjalankan:
+Untuk menjalankan
 
 ```
 nasm -f elf mod.asm
